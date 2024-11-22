@@ -1,6 +1,7 @@
 # Books for Mobile Developer Should Have on Their Shelf
 
 I also own these books, Author try convey his experience in Mobile Dev. </br>
+Books is for Flutter Developers, Android Native and Kotlin Developers. </br>
 You should try too.</br>
 **Follow me** on [LinkedIn](https://linktr.ee/theshivamlko) and [Instagram](https://www.instagram.com/navokitech)
 
