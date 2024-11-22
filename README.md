@@ -3,7 +3,8 @@
 I also own these books, Author try convey his experience in Mobile Dev. </br>
 Books is for Flutter Developers, Android Native and Kotlin Developers. </br>
 You should try too.</br>
-**Follow me** on [LinkedIn](https://linktr.ee/theshivamlko) and [Instagram](https://www.instagram.com/navokitech)
+**Follow me** on [LinkedIn](https://linktr.ee/theshivamlko) and [Instagram](https://www.instagram.com/navokitech) </br>
+[Original Linkedin post](https://www.linkedin.com/posts/theshivamlko_books-swift-crossplatform-activity-7265584192632102912-c4m1?utm_source=share&utm_medium=member_desktop) 
 
 ### 1. Building Mobile Apps at Scale: 39 Engineering Challenges
 <a href="https://amzn.to/48GvC5C" target="_blank">Building Mobile Apps at Scale: 39 Engineering Challenges</a>
